@@ -29,7 +29,7 @@
   <!-- <a href="https://www.instagram.com/isocyanideisgood" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
   </a> -->
-  <a href="https://www.linkedin.com/in/priyan17singh" target="_blank">
+  <a href="https://www.linkedin.com/in/priyanshu-singh-4ab470366/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>
   <a href="mailto:priyan17singh@gmail.com">
@@ -101,7 +101,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Priyanshu+%7C+Singh;priyan17singh.com;Priyanshu+Singh✌️👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Priyanshu+%7C+Singh;priyan17singh@gmail.com;Priyanshu+Singh✌️👨‍💻" alt="Typing SVG" />
 </p>
 
 <!-- Made with ❤️ by Abhijeet Bhale -->
