@@ -26,9 +26,9 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <!-- <a href="https://www.instagram.com/isocyanideisgood" target="_blank">
+  <a href="https://www.instagram.com/priyan17singh" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
-  </a> -->
+  </a> 
   <a href="https://www.linkedin.com/in/priyanshu-singh-4ab470366/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>
