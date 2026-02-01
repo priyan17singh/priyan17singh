@@ -97,7 +97,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhijeetBhale&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeetBhale" />
+  <img src="https://komarev.com/ghpvc/?username=priyan17singh&label=Profile%20views&color=0e75b6&style=flat" alt="__" />
 </p>
 
 <p align="center">
