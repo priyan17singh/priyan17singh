@@ -64,11 +64,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyan17singh&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyan17singh&theme=gruvbox&layout=compact&hide_border=false" height="165px"/>
-</p>
-
-<p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=priyan17singh&theme=gruvbox&hide_border=false" />
 </p>
 
