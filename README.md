@@ -42,7 +42,7 @@
 ### 💻 Tech Stack
 
 #### 🚀 Languages
-[![My Skills - Languages](https://skillicons.dev/icons?i=js,cs,c)](https://skillicons.dev)
+[![My Skills - Languages](https://skillicons.dev/icons?i=js,cpp,c)](https://skillicons.dev)
 
 #### 🧑‍🎨 Frontend
 [![My Skills - Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite,figma)](https://skillicons.dev)
@@ -65,7 +65,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyan17singh&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" height="165px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeetBhale&theme=gruvbox&layout=compact&hide_border=false" height="165px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyan17singh&theme=gruvbox&layout=compact&hide_border=false" height="165px"/>
 </p>
 
 <p align="center">
