@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <a href="https://raw.githubusercontent.com/priyan17singh/Resume/main/Priyanshu%20Resume%20oct2025.pdf" download="Priyanshu_Singh_Resume.pdf">
+  <a href="https://drive.google.com/file/d/1R5JHiPkxnUIDaBDZSuP17i8ARpcKXoRb/view?usp=sharing" download="Priyanshu_Singh_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume">
   </a>
 </div>
